@@ -39,7 +39,7 @@ res1() {
     rm *.zip
     touch /etc/adminbot/var.txt
     cd
-    rm -rf update-mbot.sh
+    rm -rf update.sh
 }
 netfilter-persistent
 clear
