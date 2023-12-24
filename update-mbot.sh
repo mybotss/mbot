@@ -53,7 +53,7 @@ echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━�
 echo -e ""
 read -n 1 -s -r -p "Press [ Enter ] to input the Bot Token, Chat ID, and Domain "
 cd
-rm -rf update.sh
+rm -rf update-mbot.sh
 wex
 menu
 ###########- COLOR CODE -##############
