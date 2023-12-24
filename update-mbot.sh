@@ -52,6 +52,8 @@ fun_bar 'res1'
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e ""
 read -n 1 -s -r -p "Press [ Enter ] to input the Bot Token, Chat ID, and Domain "
+cd
+rm -rf update.sh
 wex
 menu
 ###########- COLOR CODE -##############
